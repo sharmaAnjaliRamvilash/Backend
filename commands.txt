@@ -1,0 +1,5 @@
+1.  download the node.js first
+2.   write the command (node init)
+3.    npm start -->  run the file with this name(which is already mention in the script in the packege.js)
+4.   production -> dot env
+5     install ->  npm i dotenv  (2).create the second file for the variable
